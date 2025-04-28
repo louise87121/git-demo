@@ -1,3 +1,7 @@
 file1.
 add one line 0428
+<<<<<<< HEAD
 file1 (add from github)
+=======
+file1 (add from local dev)
+>>>>>>> b6f2f9c (update file1 from local dev branch)
